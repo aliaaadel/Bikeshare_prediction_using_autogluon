@@ -3,7 +3,7 @@
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: when sunmitting the predictions can't have negative values Thus before sumbmitting the negatice values were removed and replaced with 0 value by going through the predictions and checking its value whether it's less than 0 or not 
+ when sunmitting the predictions can't have negative values Thus before sumbmitting the negatice values were removed and replaced with 0 value by going through the predictions and checking its value whether it's less than 0 or not 
 
 ### What was the top ranked model that performed?
  top ranking model was the third one after hyperparameter tuning 
